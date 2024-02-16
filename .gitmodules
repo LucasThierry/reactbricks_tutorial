@@ -1,0 +1,3 @@
+[submodule "reactbricks-tutorial"]
+	path = reactbricks-tutorial
+	url = https://github.com/ReactBricks/nextjs-starter-reactbricks-ui.git
